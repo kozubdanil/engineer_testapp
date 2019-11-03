@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+testing URL 
+http://localhost:3000/?sort_by=rnd&sort_type=asc
+
+for file downloading
+http://localhost:3000/?sort_by=rnd&sort_type=asc&download=true
